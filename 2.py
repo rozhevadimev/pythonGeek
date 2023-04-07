@@ -1,3 +1,4 @@
+#Задача 2: Найдите сумму цифр трехзначного числа.
 n = input("Enter a three-digit number: ")
 n = int(n)
 m1 = n % 10
